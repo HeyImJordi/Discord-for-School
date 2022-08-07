@@ -1,3 +1,5 @@
+**This project will not be remain only for learning purposes**
+
 # Documentation online discord registration form
 
 - [X] PHP configuratie
