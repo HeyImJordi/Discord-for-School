@@ -14,3 +14,12 @@
 - [X] Profile pagina
 - [X] Landing pagina
 
+![Home Page](img/Home%20Page.png))
+
+![Login](img/Sign%20in.png)
+
+![Portal](img/User%20Profile.png)
+
+![register to Discord](img/Register%20to%20discord.png)
+
+![Admin Panel](img/Admin%20Panel.png)
