@@ -1,4 +1,4 @@
-**This project will not be remain only for learning purposes**
+#*This project will not be remain only for learning purposes*
 
 # Documentation online discord registration form
 
@@ -16,7 +16,7 @@
 - [X] Profile pagina
 - [X] Landing pagina
 
-![Home Page](img/Home%20Page.png))
+![Home Page](img/Home%20Page.png)
 
 ![Login](img/Sign%20in.png)
 
