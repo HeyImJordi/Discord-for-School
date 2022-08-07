@@ -1,4 +1,4 @@
-#*This project will not be remain only for learning purposes*
+# *This project will not be remain only for learning purposes*
 
 # Documentation online discord registration form
 
